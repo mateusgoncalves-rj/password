@@ -8,3 +8,7 @@ Um gerador de senhas simples e eficiente para criar senhas seguras e personaliz�
 - **Personalização**: Escolha o comprimento da senha e os caracteres permitidos (letras, números, símbolos).
 - **Interface Simples**: Fácil de usar, tanto para iniciantes quanto para desenvolvedores experientes.
 - **Portabilidade**: Compatível com diversas plataformas.
+
+## 🖥️ Demonstração
+
+Acesse a demonstração do site [aqui](https://mateusgoncalves-rj.github.io/password/).
